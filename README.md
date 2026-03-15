@@ -1,1 +1,1 @@
-In this package RNA hairpin-loops can be identified.
+By using this package the RNA hairpin-loops can be identified.
